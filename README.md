@@ -1,4 +1,4 @@
-## Hi there 👋
+## welcome 👋
 
 <!--
 **Han3707/Han3707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +29,6 @@ Hi, I am trying to become a nice developer😎
   ## Used :four_leaf_clover:
 
   <!--프론트-->
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
    <br/>
   <!--백-->
