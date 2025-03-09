@@ -28,7 +28,6 @@ Hi, I am trying to become a nice developer😎
  <!--기술스택-->
   ## Used :four_leaf_clover:
 
-  ## Used :four_leaf_clover:
 
 <!--프론트-->
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
@@ -39,8 +38,7 @@ Hi, I am trying to become a nice developer😎
 <!--언어 및 툴 -->
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-<br/><br/>
-
+<br/>
 <!--추가: Flutter / Dart / React -->
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
